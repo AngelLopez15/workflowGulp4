@@ -1,0 +1,1 @@
+"use strict";var numbers=[1,2,3,4],numbersDouble=numbers.map((function(n){return 2*n}));console.log(numbers);var numbers2=[1,2,3,4,5,6],numbersTriple=numbers.map((function(n){return 3*n}));console.log(numbers),console.log("Hola mundo");

@@ -1,0 +1,21 @@
+$color:red;
+
+body{
+  background-color: $color;
+
+  @media screen and (min-width:768px) {
+    color: green;
+  }
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.green{
+  color: green;
+}
